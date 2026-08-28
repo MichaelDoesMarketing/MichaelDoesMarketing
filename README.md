@@ -1,6 +1,8 @@
 ## Michael
 
-Marketing. Finishing an MBA. Former battle rapper. Bridging the culture that raised me with the technology of the future.
+Marketing. Finishing an MBA. Former battle rapper. 
+
+Bridging the culture that raised me with the technology of the future.
 
 I build Claude Skills out of mechanics I learned in rooms with no HR department. Battle rap, DJing, producing, sampling. Technique the culture spent fifty years refining, because the feedback was instant and the cost of being wrong was getting laughed at.
 
