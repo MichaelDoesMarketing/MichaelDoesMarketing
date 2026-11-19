@@ -8,10 +8,13 @@ I build Claude Skills out of mechanics I learned in rooms with no HR department.
 
 Most people write the essay about it. I shipped the tools.
 
-Seven of them. Public, MIT licensed, installable in one line. They work as a set, in this order.
+Eight of them. Public, MIT licensed, installable in one line. They work as a set, in this order.
 
 **[battle-tested](https://github.com/MichaelDoesMarketing/battle-tested)** writes the line.
 Marketing copy built with battle rap mechanics. Angle, scheme, setup and punch, rebuttals, and a crowd test that kills anything you can't back.
+
+**[mic-check](https://github.com/MichaelDoesMarketing/mic-check)** plays it back.
+Copy flow, measured. Finds where your writing drones, suffocates, or trails off, then fixes the timing without touching your voice. It ships with a script, so the rhythm isn't a matter of taste.
 
 **[versus](https://github.com/MichaelDoesMarketing/versus)** picks the fight.
 Which competitor to take on, whether naming them helps or hurts, and when to stand down. Four verdicts, four kill rules.
