@@ -8,7 +8,7 @@ I build Claude Skills out of mechanics I learned in rooms with no HR department.
 
 Most people write the essay about it. I shipped the tools.
 
-Eight of them. Public, MIT licensed, installable in one line. They work as a set, in this order.
+Nine of them. Public, MIT licensed, installable in one line. They work as a set, in this order.
 
 **[battle-tested](https://github.com/MichaelDoesMarketing/battle-tested)** writes the line.
 Marketing copy built with battle rap mechanics. Angle, scheme, setup and punch, rebuttals, and a crowd test that kills anything you can't back.
@@ -33,6 +33,9 @@ The beat that sounds best alone is the worst beat to rap on. Finds where your de
 
 **[freestyle](https://github.com/MichaelDoesMarketing/freestyle)** asks if you made it for this room.
 Change the name, the company, the occasion. Whatever survives all five swaps was never about them.
+
+**[all-city](https://github.com/MichaelDoesMarketing/all-city)** checks what's still up.
+Everything live under your name, scored as a set. What's stale, what contradicts what, and what a stranger hits first. Three verdicts per surface. Keep, fix, or bury.
 
 Every README has a real demo in it, run on real work, including mine getting taken apart.
 
